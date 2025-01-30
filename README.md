@@ -44,7 +44,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/password-generator.git
+   git clone https://github.com/zeeshan2002/password-generator
    cd password-generator
    ```
 
@@ -55,11 +55,11 @@ To run this project locally, follow these steps:
 
 3. **Run the Application**:
    ```bash
-   npm start
+   npm run dev
    ```
 
 4. **Open in Browser**:
-   - The application will open in your default browser at `http://localhost:3000`.
+   - The application will open in your default browser at `http://localhost:5173`.
 
 ---
 
